@@ -1,6 +1,4 @@
-<p align="center">
-  ![Github banner](https://user-images.githubusercontent.com/45656544/174460312-392d57dd-d13b-4bfc-9bc5-08c868783cfd.png)
-</p>
+![Github banner](https://user-images.githubusercontent.com/45656544/174460312-392d57dd-d13b-4bfc-9bc5-08c868783cfd.png)
 
 <h3 align="center">Hi there 👋, I'm Vladislav</h3>
 
